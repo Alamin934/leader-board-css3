@@ -14,9 +14,8 @@ main{
 .container{
     width: 870px;
     background-color: #ffffff;
-    padding: 30px;
+    margin: 30px;
     border-radius: 5px;
-    margin-bottom: 21px;
 }
 .section-title{
     color: #562EFF;
@@ -61,10 +60,7 @@ nav{
     align-items: center;
 }
 .menu ul li{
-    margin-left: 36px;
-}
-.menu ul li:first-child{
-    margin-left: 0px;
+    margin: 0px 10px;
 }
 .menu ul li a{
     text-decoration: none;
